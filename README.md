@@ -21,6 +21,11 @@ The dataset used in this project represents reaction types,reactions and content
 ## Key Insights
 Some of the key insights from the analysis include:
 
+-How many unique categories are there?
+
+-How many reactions are there to the most popular category?
+
+-What was the month with the most posts?
 
 ## Project Files
 
